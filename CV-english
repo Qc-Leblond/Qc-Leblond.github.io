@@ -1,0 +1,99 @@
+<head>
+    <title>Antoine Brouillette - Portfolio</title>
+    <meta name="description" content="Banque de jeu de Antoine Brouillette">
+    <meta name="author" content="Antoine Brouillette">
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8">
+</head>
+
+<body>
+    <h1>Curriculum Vitae</h1>
+    <a href="index.html">back</a><br>
+    
+    <h2>Useful Skills</h2>
+        <ul>
+    
+        <h2>Summary</h2>
+        <ul>
+            <li>Participation at the Ubisoft Gamelab in 2016.</li>
+            <li>Knowledge in multiple programming language and in programming in general.</li>
+            <li>Experience with working with teams, some of over 10 people located in multiple part of Quebec</li>
+            <li>Experience with multiple game engine (Unity and Unreal Engine)</li>
+        </ul>
+        
+        <h2>Programming</h2>
+        <ul>
+            <li>Was a member of UQAC team for the 2016 Computer Science Games.</li>
+            <li>Work on 2 large project of 3 months each has part of my college degree.</li>
+            <li>Multiple personnal projects to learn more about programming, one of which was on the span of 7 months.</li>
+            <li>6 semestres in programming at UQAC</li>
+            <li>Participation at 10 Gamejams (48 to 72 hours to create a video game)</li>
+            <li>Multiple programming language known:</li>
+            <ul>
+                <li>c#</li>
+                <li>c++</li>
+                <li>Java</li>
+                <li>Javascript</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>python3</li>
+            </ul>
+        </ul>
+        
+        <h2>Teamwork</h2>
+        <ul>
+            <li>Production of the Wonderlan UQAC, a meeting of over 150 gamers in the saguenay region, while working with a team of 11 people for over 2 months.</li>
+            <li>Production of a video game has part of a multidisciplanary team of 5 programmer from saguenay and 8 artist from montreal.</li>
+            <li>Production of multiple video game and programs with team of over 3 people.</li>
+        </ul>
+        
+        <h2>Experience with multiple Game Engine</h2>
+        <ul>
+            <li>Multiple video game created with Unity3D has both part of my College Degree and in personnal capacity.</li>
+            <li>Production of a video game with Unreal Engine with the integration of the Occulus Rift (virtual reality glasses)</li>
+            <li>Production of a video game on the span of 6 months with artists from NAD (Montreal)</li>
+        </ul>
+    </ul>
+    
+    <br>
+    
+    <h2>Études</h2>
+    <ul>
+        <h3>UQAC - Baccalauréat avec majeure en conception de jeux video </h3>	
+        <b>2013 - en cours</b><br>
+        Chicoutimi (Québec)
+        <br>
+        <h3>Cégep de Trois-Rivières - DEC en arts visuels</h3>				
+        <b>2011 - 2013</b><br>
+        Trois-Rivières (Québec)
+        <br>
+        <h3>École des Pionniers - Programme d’étude international</h3>			
+        <b>2006 - 2011</b><br>
+        Trois-Rivières (Québec)
+    </ul>
+    
+    <br>
+    
+    <h2>Bénévolat</h2>
+    <ul>
+        <li>Trésorier d’une activité comprennent plus de 150 participants (Wonderlan UQAC)</li>
+        <li>Voyage d’aide humanitaire au Pérou</li>
+        <li>Jeux du Québec</li>
+        <li>Aide au devoir en mathématique</li>
+        <li>Coach de Football pour des enfants en milieu défavorisé</li>
+        <li>Aide à la maison Carpe Diem (pour personnes atteintes d’alzheimer)</li>
+    </ul>
+    
+    <br>
+    
+    <h2>Language Known</h2>
+    <ul>
+        <li>French</li>
+        <li>English</li>
+    </ul>
+
+    
+    <br>
+    <a href="#top">top</a><br>
+    <a href="index.html">back</a>
+</body>
