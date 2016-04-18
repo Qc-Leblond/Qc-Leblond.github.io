@@ -5,6 +5,12 @@ h1 {
 }
 
 h2 {
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h3 {
     font-size: 35px;
     margin-top: 5px;
     margin-bottom: 5px;
